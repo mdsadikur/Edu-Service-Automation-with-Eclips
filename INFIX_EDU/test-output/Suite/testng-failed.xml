@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestCases.TC_Accounts">
+        <methods>
+          <include name="TC_ACcounts"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Accounts -->
+      <class name="TestCases.TC_Transport">
+        <methods>
+          <include name="transport"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Transport -->
+      <class name="TestCases.TC_Online_Exam">
+        <methods>
+          <include name="Online_Exam"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Online_Exam -->
+      <class name="TestCases.TC_Lesson_Plan">
+        <methods>
+          <include name="setup"/>
+          <include name="lessonPlan"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Lesson_Plan -->
+      <class name="TestCases.TC_Reports">
+        <methods>
+          <include name="reports"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Reports -->
+      <class name="TestCases.TC_Wallet_Deposit">
+        <methods>
+          <include name="TC_wallet_Deposit"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Wallet_Deposit -->
+      <class name="TestCases.TC_Bulk_Print">
+        <methods>
+          <include name="TC_BulkPrint"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Bulk_Print -->
+      <class name="TestCases.TC_Dashboard">
+        <methods>
+          <include name="dashboard"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Dashboard -->
+      <class name="TestCases.TC_Examination">
+        <methods>
+          <include name="examination"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Examination -->
+      <class name="TestCases.TC_Human_Resource">
+        <methods>
+          <include name="TC_human_Resource"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Human_Resource -->
+      <class name="TestCases.TC_Custom_filed">
+        <methods>
+          <include name="TV_custom_fileds"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Custom_filed -->
+      <class name="TestCases.TC_SystemSetting">
+        <methods>
+          <include name="systemsettings"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_SystemSetting -->
+      <class name="TestCases.TC_Inventory">
+        <methods>
+          <include name="setup"/>
+          <include name="inventory"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Inventory -->
+      <class name="TestCases.TC_Dormitory">
+        <methods>
+          <include name="TC_dormitory"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Dormitory -->
+      <class name="TestCases.TC_Student_Info">
+        <methods>
+          <include name="studentInfo"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Student_Info -->
+      <class name="TestCases.TC_Communicate">
+        <methods>
+          <include name="TC_communicate"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Communicate -->
+      <class name="TestCases.TC_Academics_Class">
+        <methods>
+          <include name="Academics"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Academics_Class -->
+      <class name="TestCases.TC_Library">
+        <methods>
+          <include name="library"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Library -->
+      <class name="TestCases.TC_Homework">
+        <methods>
+          <include name="setup"/>
+          <include name="homework"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Homework -->
+      <class name="TestCases.TC_Admin_Section">
+        <methods>
+          <include name="TC_AdminSection"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Admin_Section -->
+      <class name="TestCases.TC_Fronts_Setting">
+        <methods>
+          <include name="TC_FrontsSetting"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Fronts_Setting -->
+      <class name="TestCases.TC_Chat">
+        <methods>
+          <include name="TC_chat"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Chat -->
+      <class name="TestCases.TC_Leave">
+        <methods>
+          <include name="leave"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_Leave -->
+      <class name="TestCases.TC_StudyMaterials">
+        <methods>
+          <include name="studymaterials"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_StudyMaterials -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

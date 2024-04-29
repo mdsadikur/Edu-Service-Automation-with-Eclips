@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T14:19:44 BDT" name="Default suite" finished-at="2023-01-03T14:31:40 BDT" duration-ms="716126">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T14:19:44 BDT" name="Default test" finished-at="2023-01-03T14:31:40 BDT" duration-ms="716126">
+      <class name="TestCases.TC_Human_Resource">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_Human_Resource@21ba0741]" started-at="2023-01-03T14:19:28 BDT" name="setup" finished-at="2023-01-03T14:19:44 BDT" duration-ms="15875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_human_Resource()[pri:1, instance:TestCases.TC_Human_Resource@21ba0741]" started-at="2023-01-03T14:19:44 BDT" name="TC_human_Resource" finished-at="2023-01-03T14:31:40 BDT" duration-ms="715979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_human_Resource -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TC_Human_Resource@21ba0741]" started-at="2023-01-03T14:31:40 BDT" name="teardown" finished-at="2023-01-03T14:31:40 BDT" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TC_Human_Resource -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
